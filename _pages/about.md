@@ -31,4 +31,4 @@ While not working, I love to spend my times reading good books or learning and e
 
 ### More Information
 
-If you like to find out more about me or just want to have some chats, feel free to [drop me an email](mailto:play.satriajidam@gmail.com) or [visit my linkedin page](http://linkedin.com/in/satriajidam).
+If you like to find out more about me or just want to have some chats, feel free to [drop me an email](mailto:nashihunamien[at]gmail[dot]com) or [visit my linkedin page](http://linkedin.com/in/nashihunamien).
