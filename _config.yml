@@ -2,7 +2,7 @@
 title: Satriaji Idam's Blog
 description : A philomath journey in the cloud world.
 locale: en-US
-url: https://satriajidam.github.io
+url: https://nashihunamien.github.io
 og_image: og-image.jpg
 
 # Jekyll configuration
@@ -39,27 +39,27 @@ paginate_path: /page:num/
   
 # Site owner
 owner:
-  name: Satriaji Idam
+  name: Nashihun Amien
   avatar: bio-photo.jpg
   bio: >-
-    A self-declared philomath from Indonesia who loves programming, the web, devops, 
+    A self-declared philomath from Indonesia who loves the web, devops, scrum
     and is super passionate about the cloud-native technology.
-  email: play.satriajidam@gmail.com
-  disqus-shortname: satriaji-idam-blog
-  twitter: satriajidam
+  email: nashihunamien[at]gmail[dot]com
+  disqus-shortname: 
+  twitter: 
   facebook:
   google:
     plus:
-    analytics: UA-120534368-1
-    verify: hq3cFv5X8AwMpGJ3fhfSWVhuDux1Pv0CAZE_kalW5nI
+    analytics: 
+    verify: 
     ad-client:
     ad-slot:
   bing-verify:
-  github: satriajidam
+  github: nashihunamien
   bitbucket:
   stackoverflow:
-  linkedin: satriajidam
-  medium: play.satriajidam
+  linkedin: nashihunamien
+  medium: 
   xing:
   instagram:
   lastfm:
